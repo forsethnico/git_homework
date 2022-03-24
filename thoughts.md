@@ -4,4 +4,6 @@ Takeaway Thoughts on Mod 0
 
 Strategies for Mod 0 Success
 1. Be more specific with goals for time blocks.
-2. Be more collaborative with others. 
+2. Be more collaborative with others.
+
+Shoutout to Marianne for crushing the git practice with me!
