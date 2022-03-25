@@ -7,3 +7,7 @@ Strategies for Mod 0 Success
 2. Be more collaborative with others.
 
 Shoutout to Marianne for crushing the git practice with me!
+
+Why does Zoom move all my windows!?
+
+I love chocolate. 
